@@ -1,4 +1,4 @@
-# Pablo Aguirre — deadlyrat
+# Pablo Aguirre
 
 Software developer at **Migra Online** (Panama). I build internal tools, CRM systems, and AI-powered call center automation.
 
