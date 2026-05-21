@@ -1,7 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3776AB&height=220&section=header&text=Pablo%20Aguirre&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%20Automation%20%7C%20Panama&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3776AB&height=220&section=header&text=Pablo%20Aguirre&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Desarrollador+de+Software+%7C+Automatizacion+IA+%7C+Panama&descAlignY=60&descAlign=50" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=540&lines=Software+Developer+%F0%9F%9A%80;AI+Automation+Builder+%F0%9F%A4%96;FastAPI+%2B+React+%2B+Python;Call+Center+Intelligence+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3776AB&center=true&vCenter=true&width=560&lines=Desarrollador+de+Software;Automatizacion+con+IA;FastAPI+%2B+React+%2B+Python;Sistemas+Inteligentes+para+Call+Centers" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,41 +12,41 @@
 
 ---
 
-### 👤 About Me
+### Acerca de
 
 ```yaml
-name       : Pablo Aguirre
-role       : Software Developer
-location   : Santiago, Veraguas, Panama
-company    : Migra Online
-focus      : AI automation · Full-stack apps · Multi-agent LLM systems
-building   :
-  - MigraCRM  — AI-powered CRM for immigration law call centers
-  - Callio Wave — browser extension for real-time AI call summaries
+nombre       : Pablo Aguirre
+rol          : Desarrollador de Software
+ubicacion    : Santiago, Veraguas, Panama
+empresa      : Migra Online
+enfoque      : Automatizacion IA · Apps full-stack · Sistemas multi-agente LLM
+construyendo :
+  - MigraCRM     — CRM con IA para call centers de firma de inmigracion
+  - Callio Wave  — extension de navegador para resumenes de llamadas en tiempo real
 ```
 
 ---
 
-### 🔨 Work Projects
+### Proyectos de Trabajo
 
-> Production systems built at **Migra Online** — code is proprietary.
+> Sistemas en produccion desarrollados en **Migra Online** — codigo propietario.
 
 <table>
 <tr>
 <td width="50%">
 
-**🏢 [MigraCRM](https://github.com/deadlyrat/migra-crm-showcase)**
+**[MigraCRM](https://github.com/deadlyrat/migra-crm-showcase)**
 
-Full-stack CRM with automatic call transcription, AI summaries, sentiment analysis, and PBX integration for immigration law call centers.
+CRM full-stack con transcripcion automatica de llamadas, resumenes con IA, analisis de sentimiento e integracion directa con PBX para call centers de firmas de inmigracion.
 
 `Python` `FastAPI` `React` `PostgreSQL` `Gemini` `Whisper`
 
 </td>
 <td width="50%">
 
-**🎙️ [Callio Wave Add-in](https://github.com/deadlyrat/callio-wave-showcase)**
+**[Callio Wave Add-in](https://github.com/deadlyrat/callio-wave-showcase)**
 
-Browser extension for Grandstream Wave softphone. Surfaces AI call summaries and full caller history the instant a call ends — zero manual lookup.
+Extension de navegador para Grandstream Wave. Muestra resumenes con IA e historial del cliente en el momento exacto en que termina la llamada, sin cambiar de pestaña.
 
 `JavaScript` `WebExtensions API`
 
@@ -56,15 +56,15 @@ Browser extension for Grandstream Wave softphone. Surfaces AI call summaries and
 
 ---
 
-### 🚀 Open Source
+### Proyectos Open Source
 
 <table>
 <tr>
 <td width="50%">
 
-**🤖 [IntelliAgent](https://github.com/deadlyrat/IntelliAgent)**
+**[IntelliAgent](https://github.com/deadlyrat/IntelliAgent)**
 
-Multi-agent AI system for automated research, summarization, JSON extraction, Trello task creation, and email delivery — all from one dashboard.
+Sistema multi-agente de IA para investigacion automatizada, resumen de fuentes, extraccion JSON, creacion de tareas en Trello y entrega por email — todo desde un dashboard web.
 
 `Python` `LangGraph` `LangChain` `FastAPI` `Docker`
 
@@ -74,9 +74,9 @@ Multi-agent AI system for automated research, summarization, JSON extraction, Tr
 
 ---
 
-### 🛠️ Tech Stack
+### Stack Tecnologico
 
-**Languages**
+**Lenguajes**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -84,7 +84,7 @@ Multi-agent AI system for automated research, summarization, JSON extraction, Tr
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Frameworks & Databases**
+**Frameworks y Bases de Datos**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -92,7 +92,7 @@ Multi-agent AI system for automated research, summarization, JSON extraction, Tr
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-**AI / ML**
+**IA / ML**
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
@@ -100,7 +100,7 @@ Multi-agent AI system for automated research, summarization, JSON extraction, Tr
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=google&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white)
 
-**Infra & Tools**
+**Infraestructura**
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat&logo=pm2&logoColor=white)
@@ -109,7 +109,7 @@ Multi-agent AI system for automated research, summarization, JSON extraction, Tr
 
 ---
 
-### 📊 GitHub Stats
+### Estadisticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=deadlyrat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="160" />
