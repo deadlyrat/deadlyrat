@@ -64,7 +64,7 @@ Extension de navegador para Grandstream Wave. Muestra resumenes con IA e histori
 <tr>
 <td width="50%">
 
-**[Cakeando Sweets Bar](https://github.com/deadlyrat/cakeando)**
+**[Cakeando Sweets Bar](https://github.com/deadlyrat/cakeando-showcase)**
 
 Sitio web full-stack para boutique de reposteria artesanal en Panama. Constructor interactivo de tortas, catalogo de productos, reservas para eventos y asistente IA.
 
@@ -73,7 +73,7 @@ Sitio web full-stack para boutique de reposteria artesanal en Panama. Constructo
 </td>
 <td width="50%">
 
-**[TodoClean — Servicios del Hogar](https://github.com/deadlyrat/todo-clean-servicios)**
+**[TodoClean — Servicios del Hogar](https://github.com/deadlyrat/todo-clean-servicios-showcase)**
 
 Plataforma PWA que conecta duenos de hogares con profesionales verificados. Reservas sin cuenta, dashboards por rol (cliente / contratista / admin) y soporte offline.
 
@@ -84,7 +84,7 @@ Plataforma PWA que conecta duenos de hogares con profesionales verificados. Rese
 <tr>
 <td width="50%">
 
-**[Callio Freight Brokering](https://github.com/deadlyrat/callio-freightbrokering)**
+**[Callio Freight Brokering](https://github.com/deadlyrat/callio-freightbrokering-showcase)**
 
 Sitio corporativo para empresa de freight brokering en EE.UU. con sistema de cotizaciones automatizado y notificaciones por email al equipo y al cliente.
 
@@ -93,7 +93,7 @@ Sitio corporativo para empresa de freight brokering en EE.UU. con sistema de cot
 </td>
 <td width="50%">
 
-**[Genesis — Sistema de Reportes](https://github.com/deadlyrat/genesis-reporte-manual)**
+**[Genesis — Sistema de Reportes](https://github.com/deadlyrat/genesis-reporte-manual-showcase)**
 
 Sistema web de acceso restringido para gestion y generacion de reportes de polizas de seguros para Genesis Asesores de Seguros, Panama.
 
@@ -120,7 +120,7 @@ Sistema multi-agente de IA para investigacion automatizada, resumen de fuentes, 
 </td>
 <td width="50%">
 
-**[Lead Scraper](https://github.com/deadlyrat/lead-scraper)**
+**[Lead Scraper](https://github.com/deadlyrat/lead-scraper-showcase)**
 
 Scraper de leads B2B para directorios industriales Kompass y ThomasNet. Extrae empresas, contactos e industrias con evasion de deteccion y exporta a Excel.
 
