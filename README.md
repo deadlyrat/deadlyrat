@@ -56,7 +56,56 @@ Extension de navegador para Grandstream Wave. Muestra resumenes con IA e histori
 
 ---
 
-### Proyectos Open Source
+### Proyectos Clientes
+
+> Sitios web y sistemas desarrollados para clientes — codigo propietario.
+
+<table>
+<tr>
+<td width="50%">
+
+**[Cakeando Sweets Bar](https://github.com/deadlyrat/cakeando)**
+
+Sitio web full-stack para boutique de reposteria artesanal en Panama. Constructor interactivo de tortas, catalogo de productos, reservas para eventos y asistente IA.
+
+`React 19` `TypeScript` `Vite` `Express` `Gemini`
+
+</td>
+<td width="50%">
+
+**[TodoClean — Servicios del Hogar](https://github.com/deadlyrat/todo-clean-servicios)**
+
+Plataforma PWA que conecta duenos de hogares con profesionales verificados. Reservas sin cuenta, dashboards por rol (cliente / contratista / admin) y soporte offline.
+
+`Next.js 16` `TypeScript` `Tailwind CSS` `PWA`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Callio Freight Brokering](https://github.com/deadlyrat/callio-freightbrokering)**
+
+Sitio corporativo para empresa de freight brokering en EE.UU. con sistema de cotizaciones automatizado y notificaciones por email al equipo y al cliente.
+
+`JavaScript` `Node.js` `Express` `SendGrid`
+
+</td>
+<td width="50%">
+
+**[Genesis — Sistema de Reportes](https://github.com/deadlyrat/genesis-reporte-manual)**
+
+Sistema web de acceso restringido para gestion y generacion de reportes de polizas de seguros para Genesis Asesores de Seguros, Panama.
+
+`Python` `FastAPI` `React` `PostgreSQL`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Otros Proyectos
 
 <table>
 <tr>
@@ -64,9 +113,18 @@ Extension de navegador para Grandstream Wave. Muestra resumenes con IA e histori
 
 **[IntelliAgent](https://github.com/deadlyrat/IntelliAgent)**
 
-Sistema multi-agente de IA para investigacion automatizada, resumen de fuentes, extraccion JSON, creacion de tareas en Trello y entrega por email — todo desde un dashboard web.
+Sistema multi-agente de IA para investigacion automatizada, resumen de fuentes, extraccion JSON, creacion de tareas en Trello y entrega por email — proyecto final universitario.
 
 `Python` `LangGraph` `LangChain` `FastAPI` `Docker`
+
+</td>
+<td width="50%">
+
+**[Lead Scraper](https://github.com/deadlyrat/lead-scraper)**
+
+Scraper de leads B2B para directorios industriales Kompass y ThomasNet. Extrae empresas, contactos e industrias con evasion de deteccion y exporta a Excel.
+
+`Python` `Playwright` `Pandas` `Stealth`
 
 </td>
 </tr>
