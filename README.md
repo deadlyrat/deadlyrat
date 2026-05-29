@@ -170,17 +170,14 @@ Scraper de leads B2B para directorios industriales Kompass y ThomasNet. Extrae e
 ### Estadisticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deadlyrat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadlyrat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
+  <img src="https://github-readme-stats-ai0j3qind-pablo-aguirre-s-projects.vercel.app/api?username=deadlyrat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="160" />
+  <img src="https://github-readme-stats-ai0j3qind-pablo-aguirre-s-projects.vercel.app/api/top-langs/?username=deadlyrat&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=deadlyrat&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deadlyrat&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
 
 ---
 
